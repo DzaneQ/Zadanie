@@ -1,6 +1,7 @@
 Przenoszenie wide³: Transport wide³ na 15km; termin: 2023\10\21 (powtarzalnoœæ: co tydzieñ)
 Rzucanie kulkami: Rzut na 100m; termin: 2023\10\24 [wykonane] (powtarzalnoœæ: codziennie)
-Biegi: Bieg na 1km; termin: 2023\10\31 (powtarzalnoœæ: co tydzieñ); status: zmienione
+Sprawdzenie zadania: Oddanie zadania do sprawdzenia; termin: 2023\10\24 (priorytet: œredni); status: nowe
+Biegi: Bieg na 1km; termin: 2023\10\31 (powtarzalnoœæ: co tydzieñ)
 Zbiórka na cel charytatywny: Pomoc dzieciom w œpi¹czce; termin: 2023\11\08 (priorytet: wysoki)
 Balans jajkami: Podniesienie jajka jednym palcem; termin: 2023\12\24 (priorytet: œredni)
 Czytanie ksi¹¿ki: Ksi¹¿ka 300 stron; termin: 2024\02\04 (powtarzalnoœæ: co miesi¹c)
